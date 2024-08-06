@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Cloud Technologies and Advanced Java Development**
 - 👯 I’m looking to collaborate on **open-source projects and hackathons**
 - 💬 Ask me about **JavaScript, React, Django, and sustainable development**
-- 🏆 Fun fact: I have attended and won several hackathons!
+- 🏆 Fun fact: I have attended and won several Tech Competitions!
 
 ## 🛠️ Tech Stack
 
