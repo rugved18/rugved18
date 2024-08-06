@@ -36,9 +36,16 @@
 
 ## 🔧 Projects & Accomplishments
 
-- **[Project Name](https://github.com/yourusername/projectname)**: Short description of the project. 
-- **[Project Name](https://github.com/yourusername/projectname)**: Short description of the project. 
-- **[Hackathon](https://github.com/yourusername/hackathon-project)**: Description of the hackathon project and any awards won.
+### [Game-Station | C++](https://github.com/yourusername/game-station)
+- Created a C++ project with classic games like Guess Number, Tic Tac Toe, Rock Paper Scissors, and Hand Cricket.
+- Implemented time limits and reward points to promote healthy gaming habits.
+
+### [Anicare- Animal HealthCare | HTML, CSS, JS, ML, Django, MySQL](https://github.com/yourusername/anicare)
+- Developed a pet care e-commerce platform with AI features to understand pet emotions and an AI chatbot for enhanced user experience.
+
+### [Sorting Visualizer - Web Application | HTML, CSS, JavaScript](https://github.com/yourusername/sorting-visualizer)
+- Built a web app to visualize sorting algorithms like Bubble Sort, Selection Sort, and more using JavaScript, CSS, and HTML.
+
 
 ## 🔗 Connect with me
 
